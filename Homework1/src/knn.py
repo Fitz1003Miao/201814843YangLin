@@ -9,7 +9,7 @@ from sklearn import preprocessing
 
 import sys
 class Logger(object):
-    def __init__(self, filename = "logout.log"):
+    def __init__(self, filename = "../log/logout.log"):
         self.terminal = sys.stdout
         self.log = open(filename, "a")
 
@@ -21,7 +21,7 @@ class Logger(object):
         pass
 
 
-sys.stdout = Logger(filename = "logout-3.log")
+sys.stdout = Logger(filename = "../log/logout-3.log")
 
 def calcEuDistance(v1, v2):
     d = np.sum(np.square(v1 - v2), axis = 1)
