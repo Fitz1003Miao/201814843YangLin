@@ -1,0 +1,54 @@
+--------------------------------------------
+Start Read TF
+Read TF has cost time 7.058178s
+--------------------------------------------
+Start Build Dict
+Build Dict has cost time 0.553658s
+--------------------------------------------
+Start Build Train VSM
+Build Train VSM has cost time 17.471051s
+--------------------------------------------
+Start Load CV Data and Build Vector
+Load CV Data and build vector has cost time 6.116652s
+--------------------------------------------
+Start Load Test Data and Build Vector
+Load Test Data and build vector has cost time 5.794657s
+--------------------------------------------
+Start Convert Data to Matrix
+Convert data to matrix has cost time 10.402987s
+--------------------------------------------
+Start Build Tree
+Build Tree has cost time 15.572349s
+--------------------------------------------
+Start Choose K value
+--------------------------------------------
+Start evaluate k value is 2
+k value is 2,Predict Accuracy is 82.549801%
+--------------------------------------------
+Start evaluate k value is 3
+k value is 3,Predict Accuracy is 83.771580%
+--------------------------------------------
+Start evaluate k value is 4
+k value is 4,Predict Accuracy is 84.037185%
+--------------------------------------------
+Start evaluate k value is 5
+k value is 5,Predict Accuracy is 84.515272%
+--------------------------------------------
+Start evaluate k value is 6
+k value is 6,Predict Accuracy is 84.249668%
+--------------------------------------------
+Start evaluate k value is 7
+k value is 7,Predict Accuracy is 84.488712%
+--------------------------------------------
+Start evaluate k value is 8
+k value is 8,Predict Accuracy is 84.249668%
+--------------------------------------------
+Start evaluate k value is 9
+k value is 9,Predict Accuracy is 84.249668%
+Choose K value has cost time 3273.398342s
+--------------------------------------------
+max accuracy is 84.515272%, k value is 5
+--------------------------------------------
+Start Predict
+Predict has cost time 408.537486s
+Predict Accuracy is 84.701493%
