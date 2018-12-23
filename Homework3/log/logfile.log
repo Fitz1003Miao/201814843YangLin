@@ -1,0 +1,32 @@
+---------- KMeans ----------
+KMeans cost time 38.968318462371826s, score is 0.781562372454415 
+
+
+---------- AffinityPropagation ----------
+AffinityPropagation cost time 13.451494693756104s, score is 0.7836988975391974 
+
+
+---------- MeanShift ----------
+MeanShift cost time 19.27985906600952s, score is 0.7278545708737196 
+
+
+---------- SpectralClustering ----------
+SpectralClustering cost time 40.73340439796448s, score is 0.8067027949127966 
+
+
+---------- Ward Hierarchical Clustering ----------
+Ward Hierarchical Clustering cost time 7.6284990310668945s, score is 0.7847178748775534 
+
+
+---------- AgglomerativeClustering ----------
+AgglomerativeClustering cost time 7.590268611907959s, score is 0.7847178748775534 
+
+
+---------- DBSCAN ----------
+DBSCAN cost time 46.81977677345276s, score is 0.611995415736244 
+
+
+---------- GaussianMixture ----------
+GaussianMixture cost time 5.616118431091309s, score is 0.7834852894647376 
+
+
